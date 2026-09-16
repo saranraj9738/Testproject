@@ -1,0 +1,15 @@
+{
+	"Headless": "false",
+	"SlowMo": "0",
+	"ViewportWidth": "1300",
+	"ViewportHeight": "1000",
+	"userdata": "Admin",
+	"passworddata": "admin123",
+	"invaliduser": "th#arun",
+	"invalidpassword": "thu",
+	"loginurl": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+	"dashurl": "https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index",
+	"searchurl": "https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList",
+	"addurl": "https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList"
+
+}
