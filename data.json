@@ -1,0 +1,10 @@
+{
+	"Headless": "false",
+	"SlowMo": "0",
+	"ViewportWidth": "1300",
+	"ViewportHeight": "1000",
+	"userdata": "Admin",
+	"passworddata": "admin123",
+	"loginurl": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+	"dashurl": "https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index",
+}
